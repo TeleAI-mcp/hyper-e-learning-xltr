@@ -1,2 +1,3 @@
-# hyper-e-learning-xltr
-Automated issue comment bot repository
+# Hyper E Learning Xltr
+
+Automated issue comment bot repository.
